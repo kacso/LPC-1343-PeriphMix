@@ -1,0 +1,1094 @@
+Archive member included because of file (symbol)
+
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+                              ./src/cr_startup_lpc13.o (SystemInit)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                              ./src/main.o (acc_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                              ./src/main.o (led7seg_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                              ./src/main.o (light_enable)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                              ./src/main.o (oled_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                              ./src/main.o (pca9532_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                              ./src/main.o (rgb_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+                              ./src/main.o (rotary_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+                              ./src/main.o (temp_init)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                              C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (font5x7)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+                              ./src/main.o (ADCInit)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                              ./src/main.o (GPIOInit)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                              ./src/main.o (I2CInit)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                              ./src/main.o (SSPInit)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+                              ./src/main.o (delayMs)
+C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                              ./src/main.o (enable_timer32)
+c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc13.o (__main)
+c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+                              C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (memset)
+c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+                              ./src/main.o (__aeabi_dsub)
+c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                              ./src/main.o (__aeabi_fmul)
+c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o) (__aeabi_lowlevel_memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+min_light_mjer      0x4               ./src/main.o
+max_temp_mjer       0x4               ./src/main.o
+min_temp_mjer       0x4               ./src/main.o
+ADCValue            0x20              C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+max_light_mjer      0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/cr_startup_lpc13.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc13.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc13.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .rodata.CSWTCH.6
+                0x00000000       0x40 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.getModeControl
+                0x00000000       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setRange
+                0x00000000       0x44 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_setMode
+                0x00000000       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_init
+                0x00000000        0xc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_setMode
+                0x00000000       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_setHiThreshold
+                0x00000000       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_setLoThreshold
+                0x00000000       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_setIrqInCycles
+                0x00000000       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_getIrqStatus
+                0x00000000       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_clearIrqStatus
+                0x00000000       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_shutdown
+                0x00000000       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_line
+                0x00000000      0x1d4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_getLedState
+                0x00000000       0xc0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Period
+                0x00000000       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Duty
+                0x00000000       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_setBlink1Leds
+                0x00000000       0x34 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .bss           0x00000000        0x4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .text.ADCBurstRead
+                0x00000000       0x7c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ COMMON         0x00000000       0x20 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .text.GPIOIntDisable
+                0x00000000      0x114 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .text.SSPReceive
+                0x00000000       0x68 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .text.enable_timer16
+                0x00000000       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .text.disable_timer16
+                0x00000000       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .text.reset_timer16
+                0x00000000       0x5c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .text          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .data          0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .bss           0x00000000        0x0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .text.delay32Ms
+                0x00000000      0x14c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .text.delay32Us
+                0x00000000      0x14c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dmul
+                0x00000000      0x128 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ddiv
+                0x00000000      0x144 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x00000000       0x1c c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x00000000        0xc c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2iz
+                0x00000000       0x3e c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x00000000       0x30 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x00000000       0x64 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x00000000       0x50 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ui2d
+                0x00000000       0x50 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x00000000       0x92 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_i2d
+                0x00000000       0x10 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x00000000        0x8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x00000000       0x16 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x00000000        0x8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpeq
+                0x00000000       0x36 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmplt
+                0x00000000       0x5a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x00000000       0x58 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x00000000       0x5a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpge
+                0x00000000       0x5a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x00000000       0x1a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x00000000       0x30 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x00000000       0x16 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x00000000        0xc c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x00000000        0x6 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x00000000       0x26 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x00000000       0x5a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x00000000       0x3c c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x00000000       0x4a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x00000000       0x16 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x00000000        0x8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x00000000       0x1a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x00000000       0x24 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x00000000        0xa c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x26 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc13.o
+LOAD ./src/main.o
+LOAD C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a
+LOAD C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a
+LOAD C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a
+LOAD c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a
+END GROUP
+                0x00008000                __top_MFlash32 = 0x8000
+                0x10002000                __top_RamLoc8 = 0x10002000
+
+.text           0x00000000     0x8c20
+ FILL mask 0xff
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x128 ./src/cr_startup_lpc13.o
+                0x00000000                g_pfnVectors
+                0x00000128                . = ALIGN (0x4)
+                0x00000128                __section_table_start = .
+                0x00000128                __data_section_table = .
+                0x00000128        0x4 LONG 0x8c20 LOADADDR (.data)
+                0x0000012c        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000130        0x4 LONG 0xa8 SIZEOF (.data)
+                0x00000134                __data_section_table_end = .
+                0x00000134                __bss_section_table = .
+                0x00000134        0x4 LONG 0x100000a8 ADDR (.bss)
+                0x00000138        0x4 LONG 0x380 SIZEOF (.bss)
+                0x0000013c                __bss_section_table_end = .
+                0x0000013c                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x0000013c       0x78 ./src/cr_startup_lpc13.o
+                0x0000013c                NMI_Handler
+                0x0000013e                HardFault_Handler
+                0x00000140                MemManage_Handler
+                0x00000142                BusFault_Handler
+                0x00000144                UsageFault_Handler
+                0x00000146                SVC_Handler
+                0x00000148                DebugMon_Handler
+                0x0000014a                PendSV_Handler
+                0x0000014e                data_init
+                0x00000160                bss_init
+                0x00000170                ResetISR
+                0x000001b0                PIOINT1_IRQHandler
+                0x000001b0                TIMER16_1_IRQHandler
+                0x000001b0                USB_FIQHandler
+                0x000001b0                ADC_IRQHandler
+                0x000001b0                SSP1_IRQHandler
+                0x000001b0                USB_IRQHandler
+                0x000001b0                BOD_IRQHandler
+                0x000001b0                WAKEUP_IRQHandler
+                0x000001b0                TIMER32_0_IRQHandler
+                0x000001b0                WDT_IRQHandler
+                0x000001b0                UART_IRQHandler
+                0x000001b0                IntDefaultHandler
+                0x000001b0                PIOINT3_IRQHandler
+                0x000001b0                TIMER16_0_IRQHandler
+                0x000001b0                FMC_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x000001b4      0x148 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/main.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x00000300       0x5c ./src/main.o
+ .text.SysTick_Config
+                0x0000035c       0x64 ./src/main.o
+ .text.playNote
+                0x000003c0       0xcc ./src/main.o
+ .text.getNote  0x0000048c       0x5c ./src/main.o
+ .text.getDuration
+                0x000004e8       0x38 ./src/main.o
+ .text.getPause
+                0x00000520       0x4c ./src/main.o
+ .text.playSong
+                0x0000056c       0x94 ./src/main.o
+ .text.IntToString
+                0x00000600       0xf8 ./src/main.o
+                0x00000600                IntToString
+ .text.FloatToString
+                0x000006f8      0x214 ./src/main.o
+                0x000006f8                FloatToString
+ .text.clockString
+                0x0000090c      0x274 ./src/main.o
+                0x0000090c                clockString
+ .text.dateString
+                0x00000b80      0x20c ./src/main.o
+                0x00000b80                dateString
+ .text.ledScale
+                0x00000d8c      0x120 ./src/main.o
+                0x00000d8c                ledScale
+ .text.SysTick_Handler
+                0x00000eac       0x24 ./src/main.o
+                0x00000eac                SysTick_Handler
+ .text.getTicks
+                0x00000ed0       0x18 ./src/main.o
+ .text.TIMER32_1_IRQHandler
+                0x00000ee8      0x2d8 ./src/main.o
+                0x00000ee8                TIMER32_1_IRQHandler
+ .text.PIOINT2_IRQHandler
+                0x000011c0      0x340 ./src/main.o
+                0x000011c0                PIOINT2_IRQHandler
+ .text.PIOINT0_IRQHandler
+                0x00001500       0x40 ./src/main.o
+                0x00001500                PIOINT0_IRQHandler
+ .text.main     0x00001540     0x3328 ./src/main.o
+                0x00001540                main
+ .text.SystemInit
+                0x00004868       0xbc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+                0x00004868                SystemInit
+ .text.getStatus
+                0x00004924       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.setModeControl
+                0x00004960       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .text.acc_init
+                0x00004990       0x10 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x00004990                acc_init
+ .text.acc_read
+                0x000049a0       0xbc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                0x000049a0                acc_read
+ .text.led7seg_init
+                0x00004a5c       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x00004a5c                led7seg_init
+ .text.led7seg_setChar
+                0x00004a84       0x70 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                0x00004a84                led7seg_setChar
+ .text.readCommandReg
+                0x00004af4       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.readControlReg
+                0x00004b30       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .text.light_enable
+                0x00004b6c       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                0x00004b6c                light_enable
+ .text.light_read
+                0x00004bb4       0x94 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                0x00004bb4                light_read
+ .text.light_setWidth
+                0x00004c48       0xa4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                0x00004c48                light_setWidth
+ .text.light_setRange
+                0x00004cec       0xac C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                0x00004cec                light_setRange
+ .text.writeCommand
+                0x00004d98       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeData
+                0x00004de8       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeDataLen
+                0x00004e38       0x80 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.runInitSequence
+                0x00004eb8      0x118 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.hLine    0x00004fd0       0x4c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.vLine    0x0000501c       0x4c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_init
+                0x00005068       0xb8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00005068                oled_init
+ .text.oled_putPixel
+                0x00005120      0x18c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00005120                oled_putPixel
+ .text.oled_circle
+                0x000052ac      0x32c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000052ac                oled_circle
+ .text.oled_rect
+                0x000055d8       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000055d8                oled_rect
+ .text.oled_fillRect
+                0x00005620       0x90 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00005620                oled_fillRect
+ .text.oled_clearScreen
+                0x000056b0       0x74 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000056b0                oled_clearScreen
+ .text.oled_putChar
+                0x00005724       0xf0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00005724                oled_putChar
+ .text.oled_putString
+                0x00005814       0x54 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00005814                oled_putString
+ .text.setLsStates
+                0x00005868       0xcc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.setLeds  0x00005934       0xa0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .text.pca9532_init
+                0x000059d4        0xc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x000059d4                pca9532_init
+ .text.pca9532_setLeds
+                0x000059e0       0xa8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x000059e0                pca9532_setLeds
+ .text.pca9532_setBlink0Period
+                0x00005a88       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00005a88                pca9532_setBlink0Period
+ .text.pca9532_setBlink0Duty
+                0x00005ab8       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00005ab8                pca9532_setBlink0Duty
+ .text.pca9532_setBlink0Leds
+                0x00005b10       0x34 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                0x00005b10                pca9532_setBlink0Leds
+ .text.rgb_init
+                0x00005b44       0x88 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                0x00005b44                rgb_init
+ .text.rgb_setLeds
+                0x00005bcc       0x98 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                0x00005bcc                rgb_setLeds
+ .text.rotary_init
+                0x00005c64       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+                0x00005c64                rotary_init
+ .text.rotary_read
+                0x00005c8c       0xfc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+                0x00005c8c                rotary_read
+ .text.temp_init
+                0x00005d88       0x2c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+                0x00005d88                temp_init
+ .text.temp_read
+                0x00005db4      0x120 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+                0x00005db4                temp_read
+ .text.ADCInit  0x00005ed4       0xec C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+                0x00005ed4                ADCInit
+ .text.ADCRead  0x00005fc0       0xbc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+                0x00005fc0                ADCRead
+ .text.NVIC_EnableIRQ
+                0x0000607c       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .text.GPIOInit
+                0x000060b4       0xb8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x000060b4                GPIOInit
+ .text.GPIOSetDir
+                0x0000616c      0x308 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x0000616c                GPIOSetDir
+ .text.GPIOSetValue
+                0x00006474      0x1ec C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006474                GPIOSetValue
+ .text.GPIOGetValue
+                0x00006660       0xf0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006660                GPIOGetValue
+ .text.GPIOSetInterrupt
+                0x00006750      0x574 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006750                GPIOSetInterrupt
+ .text.GPIOIntEnable
+                0x00006cc4      0x104 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006cc4                GPIOIntEnable
+ .text.GPIOIntStatus
+                0x00006dc8      0x100 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006dc8                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00006ec8      0x104 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                0x00006ec8                GPIOIntClear
+ .text.NVIC_EnableIRQ
+                0x00006fcc       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .text.I2C_IRQHandler
+                0x00007004      0x408 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x00007004                I2C_IRQHandler
+ .text.I2CStart
+                0x0000740c       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x0000740c                I2CStart
+ .text.I2CStop  0x0000746c       0x34 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x0000746c                I2CStop
+ .text.I2CInit  0x000074a0       0xec C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x000074a0                I2CInit
+ .text.I2CEngine
+                0x0000758c       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x0000758c                I2CEngine
+ .text.I2CRead  0x000075ec       0x68 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x000075ec                I2CRead
+ .text.I2CWrite
+                0x00007654       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                0x00007654                I2CWrite
+ .text.NVIC_EnableIRQ
+                0x000076b4       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .text.SSP_IRQHandler
+                0x000076ec       0xa0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                0x000076ec                SSP_IRQHandler
+ .text.SSPInit  0x0000778c      0x16c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                0x0000778c                SSPInit
+ .text.SSPSend  0x000078f8       0x78 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                0x000078f8                SSPSend
+ .text.NVIC_EnableIRQ
+                0x00007970       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .text.delayMs  0x000079a8      0x14c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+                0x000079a8                delayMs
+ .text.init_timer16
+                0x00007af4      0x1c0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+                0x00007af4                init_timer16
+ .text.NVIC_EnableIRQ
+                0x00007cb4       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .text.enable_timer32
+                0x00007cec       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                0x00007cec                enable_timer32
+ .text.disable_timer32
+                0x00007d24       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                0x00007d24                disable_timer32
+ .text.reset_timer32
+                0x00007d5c       0x5c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                0x00007d5c                reset_timer32
+ .text.init_timer32
+                0x00007db8      0x1b0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                0x00007db8                init_timer32
+ .text.__weak_main
+                0x00007f68        0x4 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+                0x00007f68                __weak_main
+                0x00007f68                __main
+ .text.memset   0x00007f6c        0x4 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+                0x00007f6c                memset
+ .text.__aeabi_dsub
+                0x00007f70      0x1d8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+                0x00007f70                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x00008148      0x13c c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+                0x00008148                __aeabi_dadd
+ .text.__aeabi_d2f
+                0x00008284       0x54 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+                0x00008284                __aeabi_d2f
+ .text.__aeabi_fmul
+                0x000082d8       0xbc c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x000082d8                __aeabi_fmul
+ .text.__aeabi_fdiv
+                0x00008394       0xe8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x00008394                __aeabi_fdiv
+ .text.__aeabi_fsub
+                0x0000847c       0xe0 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000847c                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x0000855c       0xa4 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000855c                __aeabi_fadd
+ .text.__aeabi_f2iz
+                0x00008600       0x34 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x00008600                __aeabi_f2iz
+ .text.__bhs_ui2f
+                0x00008634       0x26 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x00008634                __bhs_ui2f
+ .text.__aeabi_i2f
+                0x0000865a       0x10 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000865a                __aeabi_i2f
+ .text.__aeabi_ui2f
+                0x0000866a        0x8 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000866a                __aeabi_ui2f
+ *fill*         0x00008672        0x2 00
+ .text.__aeabi_f2d
+                0x00008674       0x38 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x00008674                __aeabi_f2d
+ .text.__aeabi_fcmpeq
+                0x000086ac       0x1e c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x000086ac                __aeabi_fcmpeq
+ .text.__aeabi_fcmplt
+                0x000086ca       0x3a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x000086ca                __aeabi_fcmplt
+ .text.__aeabi_fcmpgt
+                0x00008704       0x3a c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x00008704                __aeabi_fcmpgt
+ .text.__aeabi_fcmple
+                0x0000873e       0x40 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000873e                __aeabi_fcmple
+ .text.__aeabi_fcmpge
+                0x0000877e       0x40 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+                0x0000877e                __aeabi_fcmpge
+ .text.__aeabi_memset_lowlevel
+                0x000087be       0x24 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+                0x000087be                __aeabi_lowlevel_memset
+ *(.rodata .rodata.*)
+ *fill*         0x000087e2        0x2 00
+ .rodata        0x000087e4      0x134 ./src/main.o
+ .rodata        0x00008918        0x8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .rodata        0x00008920      0x300 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                0x00008920                font5x7
+                0x00008c20                . = ALIGN (0x4)
+
+.glue_7         0x00008c20        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00008c20        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00008c20        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00008c20        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00008c20                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00008c20                __exidx_end = .
+                0x00008c20                _etext = .
+
+.uninit_RESERVED
+ *(.bss.$RESERVED*)
+
+.data           0x10000000       0xa8 load address 0x00008c20
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data.Ascii    0x10000000        0x4 ./src/main.o
+ .data.sw3      0x10000004        0x1 ./src/main.o
+                0x10000004                sw3
+ .data.screen   0x10000005        0x1 ./src/main.o
+                0x10000005                screen
+ .data.clk_flag
+                0x10000006        0x1 ./src/main.o
+                0x10000006                clk_flag
+ .data.alarm_flag
+                0x10000007        0x1 ./src/main.o
+                0x10000007                alarm_flag
+ .data.dan      0x10000008        0x1 ./src/main.o
+                0x10000008                dan
+ .data.mj       0x10000009        0x1 ./src/main.o
+                0x10000009                mj
+ .data.pgod     0x1000000a        0x1 ./src/main.o
+                0x1000000a                pgod
+ *fill*         0x1000000b        0x1 00
+ .data.god      0x1000000c        0x2 ./src/main.o
+                0x1000000c                god
+ *fill*         0x1000000e        0x2 00
+ .data.notes    0x10000010       0x38 ./src/main.o
+ .data.song     0x10000048        0x4 ./src/main.o
+ .data.SystemCoreClock
+                0x1000004c        0x4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+                0x1000004c                SystemCoreClock
+ .data          0x10000050       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .data          0x100000a0        0x8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                0x100000a8                . = ALIGN (0x4)
+                0x100000a8                _edata = .
+
+.bss            0x100000a8      0x380 load address 0x00008cc8
+                0x100000a8                _bss = .
+ *(.bss*)
+ .bss.msTicks   0x100000a8        0x4 ./src/main.o
+ .bss.buf       0x100000ac       0x10 ./src/main.o
+ .bss.hh        0x100000bc        0x1 ./src/main.o
+                0x100000bc                hh
+ .bss.mm        0x100000bd        0x1 ./src/main.o
+                0x100000bd                mm
+ .bss.ss        0x100000be        0x1 ./src/main.o
+                0x100000be                ss
+ .bss.joy       0x100000bf        0x1 ./src/main.o
+                0x100000bf                joy
+ .bss.exscreen  0x100000c0        0x1 ./src/main.o
+                0x100000c0                exscreen
+ *fill*         0x100000c1        0x3 00
+ .bss           0x100000c4      0x300 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .bss           0x100003c4        0x6 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ *fill*         0x100003ca        0x2 00
+ .bss           0x100003cc        0x4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .bss           0x100003d0       0x10 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .bss           0x100003e0       0x2c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .bss           0x1000040c        0xc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                0x1000040c                interruptRxStat
+                0x10000410                interruptOverRunStat
+                0x10000414                interruptRxTimeoutStat
+ *(COMMON)
+ COMMON         0x10000418       0x10 ./src/main.o
+                0x10000418                min_light_mjer
+                0x1000041c                max_temp_mjer
+                0x10000420                min_temp_mjer
+                0x10000424                max_light_mjer
+                0x10000428                . = ALIGN (0x4)
+                0x10000428                _ebss = .
+                0x10000428                PROVIDE (end, .)
+                0x10000428                PROVIDE (_pvHeapStart, .)
+                0x10002000                PROVIDE (_vStackTop, (__top_RamLoc8 - 0x0))
+OUTPUT(My Project (3.3) PeriphMix.axf elf32-littlearm)
+
+.debug_abbrev   0x00000000     0x1821
+ .debug_abbrev  0x00000000      0x123 ./src/cr_startup_lpc13.o
+ .debug_abbrev  0x00000123      0x2f6 ./src/main.o
+ .debug_abbrev  0x00000419      0x11e C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_abbrev  0x00000537      0x118 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_abbrev  0x0000064f       0xcd C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_abbrev  0x0000071c      0x161 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_abbrev  0x0000087d      0x18f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_abbrev  0x00000a0c      0x139 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_abbrev  0x00000b45       0xd8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_abbrev  0x00000c1d      0x113 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_abbrev  0x00000d30      0x136 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_abbrev  0x00000e66       0x4b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_abbrev  0x00000eb1      0x152 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_abbrev  0x00001003      0x1e5 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_abbrev  0x000011e8      0x1cc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_abbrev  0x000013b4      0x19f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_abbrev  0x00001553      0x167 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_abbrev  0x000016ba      0x167 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_info     0x00000000     0x86ef
+ .debug_info    0x00000000      0x315 ./src/cr_startup_lpc13.o
+ .debug_info    0x00000315     0x192f ./src/main.o
+ .debug_info    0x00001c44      0x5a5 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_info    0x000021e9      0x27b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_info    0x00002464      0x124 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_info    0x00002588      0x4a8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_info    0x00002a30      0x802 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_info    0x00003232      0x38c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_info    0x000035be      0x39a C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_info    0x00003958      0x22d C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_info    0x00003b85      0x274 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_info    0x00003df9       0x65 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_info    0x00003e5e      0x932 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_info    0x00004790      0xb96 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_info    0x00005326      0xdb8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_info    0x000060de      0xc73 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_info    0x00006d51      0xcb4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_info    0x00007a05      0xcea C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_line     0x00000000     0x593a
+ .debug_line    0x00000000      0x415 ./src/cr_startup_lpc13.o
+ .debug_line    0x00000415      0xd46 ./src/main.o
+ .debug_line    0x0000115b      0x17f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_line    0x000012da      0x4d6 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_line    0x000017b0      0x47a C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_line    0x00001c2a      0x582 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_line    0x000021ac      0x778 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_line    0x00002924      0x56d C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_line    0x00002e91      0x466 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_line    0x000032f7      0x48c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_line    0x00003783      0x485 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_line    0x00003c08       0x8f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_line    0x00003c97      0x42f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_line    0x000040c6      0x5ab C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_line    0x00004671      0x4e1 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_line    0x00004b52      0x4a2 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_line    0x00004ff4      0x48b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_line    0x0000547f      0x4bb C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_macinfo  0x00000000    0x6fe40
+ .debug_macinfo
+                0x00000000     0x6bc6 ./src/cr_startup_lpc13.o
+ .debug_macinfo
+                0x00006bc6     0x7aab ./src/main.o
+ .debug_macinfo
+                0x0000e671     0x6fad C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_macinfo
+                0x0001561e     0x6e28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_macinfo
+                0x0001c446     0x6ecc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_macinfo
+                0x00023312     0x7239 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macinfo
+                0x0002a54b     0x6eea C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_macinfo
+                0x00031435     0x6a5f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_macinfo
+                0x00037e94     0x6ad3 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_macinfo
+                0x0003e967     0x6af9 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_macinfo
+                0x00045460     0x2745 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macinfo
+                0x00047ba5     0x6a73 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_macinfo
+                0x0004e618     0x69e4 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_macinfo
+                0x00054ffc     0x6c78 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_macinfo
+                0x0005bc74     0x6d80 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_macinfo
+                0x000629f4     0x6a26 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_macinfo
+                0x0006941a     0x6a26 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_loc      0x00000000     0x19ef
+ .debug_loc     0x00000000      0x1b8 ./src/cr_startup_lpc13.o
+ .debug_loc     0x000001b8      0x3c2 ./src/main.o
+ .debug_loc     0x0000057a       0x67 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_loc     0x000005e1      0x17c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_loc     0x0000075d       0x64 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_loc     0x000007c1      0x304 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_loc     0x00000ac5      0x33e C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_loc     0x00000e03      0x25c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_loc     0x0000105f       0x64 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_loc     0x000010c3       0x64 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_loc     0x00001127       0x70 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_loc     0x00001197       0x9c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_loc     0x00001233      0x224 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_loc     0x00001457      0x1a8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_loc     0x000015ff      0x118 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_loc     0x00001717      0x150 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_loc     0x00001867      0x188 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_pubnames
+                0x00000000      0x9b1
+ .debug_pubnames
+                0x00000000      0x115 ./src/cr_startup_lpc13.o
+ .debug_pubnames
+                0x00000115      0x194 ./src/main.o
+ .debug_pubnames
+                0x000002a9       0x4f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_pubnames
+                0x000002f8       0x4d C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_pubnames
+                0x00000345       0x37 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_pubnames
+                0x0000037c      0x107 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_pubnames
+                0x00000483       0xa9 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_pubnames
+                0x0000052c       0xef C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_pubnames
+                0x0000061b       0x2f C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_pubnames
+                0x0000064a       0x32 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_pubnames
+                0x0000067c       0x2e C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_pubnames
+                0x000006aa       0x1e C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_pubnames
+                0x000006c8       0x57 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_pubnames
+                0x0000071f       0xad C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_pubnames
+                0x000007cc       0x71 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_pubnames
+                0x0000083d       0x94 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_pubnames
+                0x000008d1       0x68 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_pubnames
+                0x00000939       0x78 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_pubtypes
+                0x00000000      0x6be
+ .debug_pubtypes
+                0x00000000       0x1e ./src/cr_startup_lpc13.o
+ .debug_pubtypes
+                0x0000001e       0xe8 ./src/main.o
+ .debug_pubtypes
+                0x00000106       0x42 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_pubtypes
+                0x00000148       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_pubtypes
+                0x00000190       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_pubtypes
+                0x000001bb       0x72 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_pubtypes
+                0x0000022d       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_pubtypes
+                0x0000028d       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_pubtypes
+                0x000002c5       0x41 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_pubtypes
+                0x00000306       0x40 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_pubtypes
+                0x00000346       0x4c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_pubtypes
+                0x00000392       0x6c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_pubtypes
+                0x000003fe       0x7c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_pubtypes
+                0x0000047a       0x91 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_pubtypes
+                0x0000050b       0x91 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_pubtypes
+                0x0000059c       0x91 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_pubtypes
+                0x0000062d       0x91 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_aranges  0x00000000      0x590
+ .debug_aranges
+                0x00000000       0x80 ./src/cr_startup_lpc13.o
+ .debug_aranges
+                0x00000080       0xa8 ./src/main.o
+ .debug_aranges
+                0x00000128       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_aranges
+                0x00000150       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_aranges
+                0x000001a0       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_aranges
+                0x000001c8       0x88 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_aranges
+                0x00000250       0x90 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_aranges
+                0x000002e0       0x70 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_aranges
+                0x00000350       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_aranges
+                0x00000378       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_aranges
+                0x000003a0       0x28 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_aranges
+                0x000003c8       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_aranges
+                0x000003f8       0x68 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_aranges
+                0x00000460       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_aranges
+                0x000004b8       0x40 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_aranges
+                0x000004f8       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_aranges
+                0x00000540       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_ranges   0x00000000      0x480
+ .debug_ranges  0x00000000       0x70 ./src/cr_startup_lpc13.o
+ .debug_ranges  0x00000070       0x98 ./src/main.o
+ .debug_ranges  0x00000108       0x18 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_ranges  0x00000120       0x40 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_ranges  0x00000160       0x18 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_ranges  0x00000178       0x78 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_ranges  0x000001f0       0x80 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_ranges  0x00000270       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_ranges  0x000002d0       0x18 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_ranges  0x000002e8       0x18 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_ranges  0x00000300       0x18 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_ranges  0x00000318       0x20 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_ranges  0x00000338       0x58 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_ranges  0x00000390       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_ranges  0x000003d8       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_ranges  0x00000408       0x38 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_ranges  0x00000440       0x40 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+
+.debug_str      0x00000000     0x1a8e
+ .debug_str     0x00000000      0x240 ./src/cr_startup_lpc13.o
+                                0x270 (size before relaxing)
+ .debug_str     0x00000240      0xc6e ./src/main.o
+                                0xdad (size before relaxing)
+ .debug_str     0x00000eae       0x9c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+                                0x426 (size before relaxing)
+ .debug_str     0x00000f4a      0x13e C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+                                0x1df (size before relaxing)
+ .debug_str     0x00001088       0x3c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+                                0x12f (size before relaxing)
+ .debug_str     0x000010c4      0x1bd C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+                                0x34d (size before relaxing)
+ .debug_str     0x00001281      0x1a9 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                                0x2e0 (size before relaxing)
+ .debug_str     0x0000142a      0x136 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+                                0x23f (size before relaxing)
+ .debug_str     0x00001560       0x22 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+                                0x2b5 (size before relaxing)
+ .debug_str     0x00001582       0x34 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+                                0x15f (size before relaxing)
+ .debug_str     0x000015b6       0x2d C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+                                0x16f (size before relaxing)
+ .debug_str     0x000015e3       0x11 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                                 0x90 (size before relaxing)
+ .debug_str     0x000015f4       0xbf C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+                                0x5bc (size before relaxing)
+ .debug_str     0x000016b3       0xf8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+                                0x86f (size before relaxing)
+ .debug_str     0x000017ab      0x169 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+                                0xa47 (size before relaxing)
+ .debug_str     0x00001914       0x9c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+                                0x97c (size before relaxing)
+ .debug_str     0x000019b0       0x75 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+                                0x97f (size before relaxing)
+ .debug_str     0x00001a25       0x69 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+                                0x995 (size before relaxing)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a ./src/cr_startup_lpc13.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b ./src/main.o
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .comment       0x00000000       0x2b C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .comment       0x00000000       0x2b c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .comment       0x00000000       0x2b c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+ .comment       0x00000000       0x2b c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .comment       0x00000000       0x2b c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/cr_startup_lpc13.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/main.o
+ .ARM.attributes
+                0x00000062       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .ARM.attributes
+                0x00000093       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .ARM.attributes
+                0x000000c4       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .ARM.attributes
+                0x000000f5       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .ARM.attributes
+                0x00000126       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .ARM.attributes
+                0x00000157       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .ARM.attributes
+                0x00000188       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .ARM.attributes
+                0x000001b9       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .ARM.attributes
+                0x000001ea       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .ARM.attributes
+                0x0000021b       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .ARM.attributes
+                0x0000024c       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .ARM.attributes
+                0x0000027d       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .ARM.attributes
+                0x000002ae       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .ARM.attributes
+                0x000002df       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .ARM.attributes
+                0x00000310       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .ARM.attributes
+                0x00000341       0x31 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
+ .ARM.attributes
+                0x00000372       0x31 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000003a3       0x31 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/../../../../arm-none-eabi/lib/thumb2\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x000003d4       0x31 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x00000405       0x31 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x00000436       0x21 c:/nxp/lpcxpresso_4.2.3_292/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.5.1/thumb2\libcr_eabihelpers.a(memcpy.o)
+
+.debug_frame    0x00000000      0xf34
+ .debug_frame   0x00000000       0xf0 ./src/cr_startup_lpc13.o
+ .debug_frame   0x000000f0      0x228 ./src/main.o
+ .debug_frame   0x00000318       0x30 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\CMSISv2p00_LPC13xx\Release\libCMSISv2p00_LPC13xx.a(system_LPC13xx.o)
+ .debug_frame   0x00000348       0xec C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(acc.o)
+ .debug_frame   0x00000434       0x4c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(led7seg.o)
+ .debug_frame   0x00000480      0x1c8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(light.o)
+ .debug_frame   0x00000648      0x1ec C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_frame   0x00000834      0x168 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(pca9532.o)
+ .debug_frame   0x0000099c       0x4c C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rgb.o)
+ .debug_frame   0x000009e8       0x48 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(rotary.o)
+ .debug_frame   0x00000a30       0x50 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(temp.o)
+ .debug_frame   0x00000a80       0x60 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(adc.o)
+ .debug_frame   0x00000ae0      0x128 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(gpio.o)
+ .debug_frame   0x00000c08       0xf8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(i2c.o)
+ .debug_frame   0x00000d00       0xa0 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(ssp.o)
+ .debug_frame   0x00000da0       0xbc C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer16.o)
+ .debug_frame   0x00000e5c       0xd8 C:\Users\Danijel\Documents\LPCXpresso_4.2.3_292\workspace\Lib_MCU\Debug\libLib_MCU.a(timer32.o)
